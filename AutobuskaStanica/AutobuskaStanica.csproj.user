@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminMeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GlavniMeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IzdateKarte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Putnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Radnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stanice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
