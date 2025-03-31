@@ -1,4 +1,4 @@
-# Bus Station Management System 🚌💻
+# Bus System 🚌💻
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
 ![.NET](https://img.shields.io/badge/.NET-6.0-512BD4?logo=dotnet)
